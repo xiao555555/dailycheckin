@@ -197,7 +197,7 @@
     * 添加【爱奇艺】每日签到脚本
     * 添加【百度站点】每日提交脚本
 
-## 历史 Star 数
+## 历史 Star 数   DD
 
 <p align="center">
     <a href="https://starchart.cc/Sitoi/dailycheckin"><img src="https://starchart.cc/Sitoi/dailycheckin.svg" alt="starchart"></a>
